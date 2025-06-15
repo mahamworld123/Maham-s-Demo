@@ -1,2 +1,4 @@
-# Maham-s-Demo
-this is my first Git Repository.
+# Maham-Demo
+This is my first Git Repository.
+Author-Maham Moazzam
+
